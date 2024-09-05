@@ -1,31 +1,26 @@
 # Teste Econverse: Vaga Desenvolvedor Front-End Jr
 
-### Vem ser #Econverse!
+## Instruções - Compilar
+- Utilize o Vscode para compilar o código
+- Para compilar basta entrar na pasta "ecommerce-vitrine", utilizando o comando "cd ecommerce-vitrine"
+- O próximo passo é utilizar o comando "npm start", que abrirá uma guia no seu navegador, mostrando o site.
 
-Segue abaixo as instruções para a execução do teste.
+## Instruções - Uso
+- É possível pesquisar o produto de interesse por meio da barra de pesquisa, que possui um botão de lupa ao final dela
+- Na área de produtos relacionados, há uma vitrine de produtos. Para ver mais produtos basta clicar nas setas, que ficam a direita e a esquerda da vitrine.
+- Para analisar mais detalhes do produto, basta clicar nele. Logo em seguida abrirá um modal, com mais informações sobre o mesmo. O modal pode ser fechado clicando no botão 'x', que fica no canto superior direito.
+- Ao final da página, no rodapé, haverá uma seção de novidades, onde o usuário pode se inscrever por meio do seu e-mail.
+- Há também no rodapé mais informações sobre a empresa, formas de pagamento e informações úteis. O usuário pode selecionar um dos links, que ficará com uma cor em destaque, ao passar o mouse por cima.
+- O site foi desenvolvido com as medidas, cores e fontes passadas pelo Figma: https://www.figma.com/design/rWnzPeoxgynuNPsJjV0VmV/Teste-Front-End-Jr?node-id=1-1248&node-type=FRAME&t=XLQagSUMZuMWYlEW-0
+- O principal do site é a vitrine, outras funcionalidades não foram desenvolvidas.
 
-## Instruções
-- Faça um fork desse projeto para a sua conta pessoal do GitHub.
-- Desenvolva a página conforme as **Especificações Técnicas** 
-- Crie um README com as instruções para compilar, testar e rodar o projeto.
-- O link do repositório deverá ser enviado para o e-mail ana.nascimento@econverse.com.br, joao.victor@econverse.com.br e eduardo.rodrigues@econverse.com.br com o título **Teste Vaga FrontEnd Jr**
+### Como o site deve aparecer 
+- Header até Vitrine de produtos
+ ![image](https://github.com/user-attachments/assets/0c2d3d0b-bda3-448e-83df-cd59e2b2cea0)
+#
+- Produtos Relacionados e Navegue por Marcas
+ ![image](https://github.com/user-attachments/assets/0c67bca0-77b7-4fdf-b952-94dafa1e5b64)
+#
+- Rodapé
+  ![image](https://github.com/user-attachments/assets/f60cfc0c-fb43-4fd1-89f2-7f2e331403e3)
 
-## Especificações Técnicas
-- Desenvolver a pagina em React e TypeScript conforme o [layout](https://www.figma.com/file/rWnzPeoxgynuNPsJjV0VmV/Teste-Front-End-Jr?node-id=0%3A1). Para conseguir pegar os elementos do Figma, basta copiar o layout para sua conta que terá acesso de edição.
-- Montar a [vitrine](https://app.econverse.com.br/teste-front-end/junior/tecnologia/layout/vitrine-produtos.png) de produtos consumindo as informações dos produtos em json atraves desse [Link](https://app.econverse.com.br/teste-front-end/junior/tecnologia/lista-produtos/produtos.json).
-- Desenvolver a interação ao clicar em um produto conforme layout. A interação consiste em abrir um modal com as principais informações do produto presente no arquivo [JSON](https://app.econverse.com.br/teste-front-end/junior/tecnologia/lista-produtos/produtos.json) conforme o produto que clicar.
-- Utilizar Pré-processador Sass, Less ou Stylus.
-- Respeitar o Layout pixel a pixel, tamanho das fontes, cores e botões.
-- Não Utilizar bibliotecas UI como Bootstrap, Foundation, ou afins.
-
-## Pontos Extras
-- Utilizar Boas práticas de SEO
-- Uso de HTML semântico
-
-## O que avaliaremos em seu teste
-- Organização do projeto
-- Lógica do código
-- Componentização
-- Alcance dos objetivos propostos
-
-**Boa sorte! ;)**
