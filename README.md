@@ -2,8 +2,8 @@
 
 ## Instruções - Compilar
 - Utilize o Vscode para compilar o código
-- Para compilar basta entrar na pasta "ecommerce-vitrine", utilizando o comando "cd ecommerce-vitrine"
-- O próximo passo é utilizar o comando "npm start", que abrirá uma guia no seu navegador, mostrando o site.
+- Primeiro utilize o comando "npm install" para baixar a pasta node
+- Para compilar basta utilizar o comando "npm install"
 
 ## Instruções - Uso
 - É possível pesquisar o produto de interesse por meio da barra de pesquisa, que possui um botão de lupa ao final dela
